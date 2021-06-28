@@ -20,6 +20,7 @@ namespace ClothBazar.Web.Controllers
         }
         public ActionResult Index2()
         {
+            Console.WriteLine("Hello Avishek");
             return View();
         }
 

@@ -13,5 +13,12 @@ namespace ClothBazar.Web.Controllers
         {
             return View();
         }
+
+        public ActionResult Index1()
+        {
+            return View();
+        }
+
+
     }
 }
